@@ -1,10 +1,10 @@
 # Thomas Kogias
 
-Web developer and IT educator based in Greece. I build and maintain
-websites and web platforms for businesses, university departments, and
-courses, and I have taught IT laboratory courses at the University of
-the Aegean for a decade. Currently a PhD candidate researching AI in
-education.
+IT educator and developer based in Greece. I have taught IT laboratory
+courses at the University of the Aegean for a decade, and I am currently
+a PhD candidate researching AI in education. Alongside the teaching I
+build and maintain things: websites, web platforms, and tools, some for
+university departments and courses, some for people around me.
 
 ## Public work
 
@@ -19,4 +19,4 @@ education.
   Lab04 code for the summer school, eight progressive DroneKit and
   ArduPilot projects
 
-Client work and university course material live in private repositories.
+Project work and university course material live in private repositories.
