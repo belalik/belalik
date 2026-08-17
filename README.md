@@ -6,6 +6,8 @@ a PhD candidate researching AI in education. Alongside the teaching I
 build and maintain things: websites, web platforms, and tools, some for
 university departments and courses, some for people around me.
 
+Project write-ups and a resume: [kogias.org](https://kogias.org/?utm_source=github&utm_medium=profile).
+
 ## Public work
 
 - [RelarScanner2](https://github.com/belalik/RelarScanner2): Android app
