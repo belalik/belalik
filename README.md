@@ -10,6 +10,8 @@ Project write-ups and a resume: [kogias.org](https://kogias.org/?utm_source=gith
 
 ## Public work
 
+- [Erga](https://github.com/belalik/erga): Keep a website's academic publications list current: 
+  OpenAlex fetch, cross-registrar dedup, curation that survives refresh 
 - [RelarScanner2](https://github.com/belalik/RelarScanner2): Android app
   for RealWear HMT-1 assisted reality glasses, built for the RELAR
   remote maritime training project; the system behind my first-author
